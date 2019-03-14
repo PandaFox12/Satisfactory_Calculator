@@ -1,0 +1,226 @@
+{
+    "receipts": [
+        {
+            "receipt": "iron ingot",
+            "createdby": "smelters",
+            "ingredient":
+            [
+                {
+                    "name": "iron ore",
+                    "amount": 1,
+                    "amountpermin": 30
+                }
+            ],
+            "producing":
+            [
+                {
+                    "amount": 1,
+                    "amountpermin": 30
+                }
+            ] 
+        },
+        {
+            "receipt": "iron plate",
+            "createdby": "constructors",
+            "ingredient":
+            [
+                {
+                    "name": "iron ingot",
+                    "amount": 2,
+                    "amountpermin": 30
+                }
+            ],
+            "producing":
+            [
+                {
+                    "amount": 1,
+                    "amountpermin": 15
+                }
+            ] 
+        },
+        {
+            "receipt": "iron rod",
+            "createdby": "constructors",
+            "ingredient":
+            [
+                {
+                    "name": "iron ingot",
+                    "amount": 1,
+                    "amountpermin": 15
+                }
+            ],
+            "producing":
+            [
+                {
+                    "amount": 1,
+                    "amountpermin": 15
+                }
+            ] 
+        },
+        {
+            "receipt": "screws",
+            "createdby": "constructors",
+            "ingredient":
+            [
+                {
+                    "name": "iron rod",
+                    "amount": 1,
+                    "amountpermin": 15
+                }
+            ],
+            "producing":
+            [
+                {
+                    "amount": 6,
+                    "amountpermin": 90
+                }
+            ] 
+        },
+        {
+            "receipt": "reinforced iron plate",
+            "createdby": "assemblers",
+            "ingredient":
+            [
+                {
+                    "name": "iron plate",
+                    "amount": 4,
+                    "amountpermin": 20
+                },
+                {
+                    "name": "screws",
+                    "amount": 24,
+                    "amountpermin": 12
+                }
+            ],
+            "producing":
+            [
+                {
+                    "amount": 1,
+                    "amountpermin": 5
+                }
+            ] 
+        },
+        {
+            "receipt": "copper ingot",
+            "createdby": "smelters",
+            "ingredient":
+            [
+                {
+                    "name": "copper ore",
+                    "amount": 1,
+                    "amountpermin": 30
+                }
+            ],
+            "producing":
+            [
+                {
+                    "amount": 1,
+                    "amountpermin": 30
+                }
+            ] 
+        },
+        {
+            "receipt": "wires",
+            "createdby": "constructors",
+            "ingredient":
+            [
+                {
+                    "name": "copper ingot",
+                    "amount": 1,
+                    "amountpermin": 15
+                }
+            ],
+            "producing":
+            [
+                {
+                    "amount": 3,
+                    "amountpermin": 45
+                }
+            ] 
+        },
+        {
+            "receipt": "concrete",
+            "createdby": "constructors",
+            "ingredient":
+            [
+                {
+                    "name": "limestone",
+                    "amount": 3,
+                    "amountpermin": 45
+                }
+            ],
+            "producing":
+            [
+                {
+                    "amount": 1,
+                    "amountpermin": 15
+                }
+            ] 
+        },
+        {
+            "receipt": "steel ingot",
+            "createdby": "foundry",
+            "ingredient":
+            [
+                {
+                    "name": "iron ore",
+                    "amount": 3,
+                    "amountpermin": 45
+                },
+                {
+                    "name": "coal",
+                    "amount": 3,
+                    "amountpermin": 45
+                }
+            ],
+            "producing":
+            [
+                {
+                    "amount": 2,
+                    "amountpermin": 30
+                }
+            ] 
+        },
+        {
+            "receipt": "steel plate",
+            "createdby": "constructors",
+            "ingredient":
+            [
+                {
+                    "name": "steel ingot",
+                    "amount": 2,
+                    "amountpermin": 30
+                }
+            ],
+            "producing":
+            [
+                {
+                    "amount": 1,
+                    "amountpermin": 15
+                }
+            ] 
+        },
+        {
+            "receipt": "steel pipe",
+            "createdby": "constructors",
+            "ingredient":
+            [
+                {
+                    "name": "steel ingot",
+                    "amount": 1,
+                    "amountpermin": 15
+                }
+            ],
+            "producing":
+            [
+                {
+                    "amount": 1,
+                    "amountpermin": 15
+                }
+            ] 
+        }
+
+
+
+    ]
+}

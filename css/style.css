@@ -1,0 +1,26 @@
+body 
+{
+    width: 100%;
+    padding: 10px;
+}
+
+figcaption
+{
+    text-align: center;
+    font-size: 12px
+}
+
+img
+{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#options
+{
+    position:fixed;
+    left: 35%;
+}
